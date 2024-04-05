@@ -4,8 +4,6 @@ import org.junit.Test;
 import org.testng.Assert;
 import tested.Rectangle;
 
-import static junit.framework.TestCase.assertEquals;
-
 
 public class RectangleTestNG {
     private double rectangleLength = 12.22;
