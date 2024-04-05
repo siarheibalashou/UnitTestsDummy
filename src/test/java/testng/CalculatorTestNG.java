@@ -1,10 +1,9 @@
 package testng;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 import org.testng.Assert;
 import tested.Calculator;
 
-import static junit.framework.TestCase.assertEquals;
 
 
 public class CalculatorTestNG {
